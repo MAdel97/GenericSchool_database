@@ -1,2 +1,1 @@
-# GenericSchool_database
-A SQL implementation off  generic school database 
+# GenericSchool_databaseA SQL implementation of  generic school database 
